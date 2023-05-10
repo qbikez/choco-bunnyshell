@@ -1,0 +1,1 @@
+choco push bunnyshell/bunnyshell.0.14.2.nupkg --source https://push.chocolatey.org/ --api-key $env:CHOCO_API_KEY

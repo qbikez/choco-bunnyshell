@@ -1,0 +1,1 @@
+choco install bunnyshell --debug --verbose --source ./bunnyshell
